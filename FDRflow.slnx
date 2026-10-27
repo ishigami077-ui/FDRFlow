@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="fdrflow.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
